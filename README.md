@@ -9,7 +9,8 @@ The project is forked from https://github.com/udacity/ud036_StarterCode and is c
 This project tasks developers to make a website that displays their favorite movies, and allows the user to click on the movie's poster to show the trailer of the movie.
 
 
-##Installation
+## Installation
+
 
 To install this project clone the repository by following the steps below.
 
